@@ -1,3 +1,1 @@
-#Discord Grammar Bot
-
-Simple discord bot that uses the grammarbot.io api to correct grammar.
+[![Run on Repl.it](https://repl.it/badge/github/jtams/Discord-Grammar-Bot)](https://repl.it/github/jtams/Discord-Grammar-Bot)
